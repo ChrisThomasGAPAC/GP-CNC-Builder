@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+*.spec~
+
+pdf_text/
+
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
